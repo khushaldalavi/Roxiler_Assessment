@@ -23,16 +23,12 @@ A web application to display product transaction details, statistics, and visual
 
 ### Prerequisites
 
-Make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (LTS version)
 - [MongoDB](https://www.mongodb.com/) (for local development) or a cloud-based MongoDB service (like MongoDB Atlas)
 
 ### 1. Clone the Repository
 
-Clone this repository to your local machine:
-
-```bash
 git clone https://github.com/khushaldalavi/Roxiler_Assessment.git
 cd product-transactions-dashboard
 ##Backend Setup
@@ -46,17 +42,5 @@ npm install
 npm start
 
 
-### Explanation of Sections:
-- **Project Overview**: Briefly describes what the project does.
-- **Features**: Lists the key features of the project.
-- **Technologies Used**: Specifies the main technologies and tools used in both frontend and backend.
-- **Installation**: Provides step-by-step instructions for setting up the project locally.
-- **Usage**: Explains how to use the application after it's set up.
-- **API Endpoints**: Lists the available API endpoints with brief descriptions.
-- **Contributing**: Encourages others to contribute to the project.
-- **License**: Provides the licensing information for the project.
-- **Acknowledgments**: Thanks libraries and tools that helped in building the project.
-
-You can personalize the repository URL and make adjustments according to your needs.
 
 
